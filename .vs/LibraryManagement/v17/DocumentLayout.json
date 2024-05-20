@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\diego\\source\\repos\\librarymanagement\\librarymanagement\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030CDC6-BE7C-44DA-9BA8-7BCBA3125615}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:40:02.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Repositories\\Repository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:21:41.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:21:58.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:22:09.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Services\\LibraryService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\LibraryService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAWwD0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:22:44.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\LibrosController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwDMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:19:12.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\AutoresController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwDAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:17:33.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:21:28.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Data\\LibraryContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:19:47.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Libro.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:20:38.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Autor.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:20:29.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
